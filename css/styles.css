@@ -40,9 +40,10 @@
 .content {
     font-size: 100px;
     font-family: fantasy;
-    text-align: center;
     color: yellow;
-    display: flex;justify-content:     
-    
+   
+}
+.flexbox {
+    display: flex;align-items: center;
 }
 
