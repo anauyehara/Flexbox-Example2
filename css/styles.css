@@ -1,0 +1,54 @@
+.h1 {
+    color: blue;
+    text-align: center
+   }
+
+.block-1 {
+    border: 600px;
+    height: 600px;
+    align-items: flex-end;
+
+        
+}
+
+.box {
+    height: 300px;
+    margin: 10px;
+    content: counter(one,two,three,four);
+        
+}
+.box2 {
+    width: 300px;
+}
+
+.box3 {
+    width: 500px;
+
+}
+.red {
+    background-color:red
+}
+.black {
+    background-color: black;
+}
+.blue {
+    background-color: blue;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.content {
+    font-size: 100px;
+    font-family: fantasy;
+    color: yellow;
+      }
+
+.flex-container {
+    text-align: center;
+       
+    
+    }
+
+
