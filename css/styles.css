@@ -41,10 +41,11 @@
     font-size: 100px;
     font-family: fantasy;
     color: yellow;
-   
-}
-.flexbox {
+      }
+
+.container {
     display: flex;
-    align-items: center;
-}
+    flex-direction: column-reverse;
+    }
+
 
