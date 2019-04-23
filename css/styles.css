@@ -25,6 +25,12 @@
   
 }
 
+.box2 {
+    display: flex;
+    align-self: flex-start;
+
+}
+
 .red {
     background-color:red;
     width: 300px;
